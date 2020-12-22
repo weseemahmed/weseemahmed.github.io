@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Weseem Ahmed"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Profile.png"
+  bio              : "An economist dabbling with data science. Most of my work is in the public sector and I apply new techniques to streamline processes."
   location         : "Toronto"
   employer         :
  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
