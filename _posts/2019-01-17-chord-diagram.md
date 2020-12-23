@@ -7,8 +7,7 @@ categories: Rblogging
 tags: [chordDiagram]
 img_url: /includes/20190117-chord-diagram.png
 excerpt: This blog goes through the basic steps to create a chord diagram which is a fantastic data visualization tool for showing the magnitudes of different groups' interactions.
-output: html_document
-
+output: html_document 
 ---
 ## Intraprovincial Migration
 For a study on determining if Ontarians are satsfied with their overall quality of life, one of the ideas my colleagues and myself had was to see how people are moving within the province. Following the Dutch people's influx into Amsterdam during the Middle Ages as a sign of their approval with their government, the concept of "voting with your feet" has been around for quite sometime.
