@@ -1,5 +1,5 @@
 ---
-title: "Chord diagram"
+title: "Chord diagram visualization in R"
 subtitle: "Visualizing intra-Ontario migration"
 date: "January 17, 2019"
 comments: true
