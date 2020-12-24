@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Boundary File Data Extraction"
 subtitle: "Hacking shapefiles for data"
-author: "Weseem Ahmed "
 date: "March 31, 2019"
 comments: true
 categories: rblogging
