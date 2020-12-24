@@ -7,7 +7,6 @@ categories: Rblogging
 tags: [Dot density map]
 img_url: /images/20190120-dot-density.png
 excerpt: This blog goes through the  steps to create a dot density map with simple features shapefiles!
-output: html_document 
 ---
 ## Mapping Toronto's diversity with a dot density map
 Anyone who knows me knows that visualizations are powerful tools to show data to analysts and the layman alike. And what I particularly try to achieve while visualizing data is to pack as much information as I can into a single picture. For that, maps are fantastic tools since they can show "what" "where" and "when". But what if we can show several "whats" in a single, easy to read map? That's where dot density maps come in.
