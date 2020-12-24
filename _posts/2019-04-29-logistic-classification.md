@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Classifying credit defaulters"
 subtitle: "A machine learning model"
-author: "Weseem Ahmed "
 date: "April 29, 2019"
 comments: true
 categories: python
