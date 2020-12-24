@@ -13,7 +13,7 @@ output: html_document
 Anyone who knows me knows that visualizations are powerful tools to show data to analysts and the layman alike. And what I particularly try to achieve while visualizing data is to pack as much information as I can into a single picture. For that, maps are fantastic tools since they can show "what" "where" and "when". But what if we can show several "whats" in a single, easy to read map? That's where dot density maps come in.
 
 ### When best to use dot density maps?
-- In any other normal map application situation and;
+- In any other normal map application situation
 - When the variable you would like to show has several categories or groups which you would like to emphasize.
 
 
