@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "Dot density map"
+title: "Dot density map: what you see isn't always what you get"
 subtitle: "Mapping ethnicities in Toronto with ggplot2"
 date: "January 20, 2019"
 comments: true
