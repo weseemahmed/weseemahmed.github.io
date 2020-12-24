@@ -8,7 +8,6 @@ comments: true
 categories: python
 tags: [machine learning]
 excerpt: This post builds a machine learning model using a multi-linear logistic regression to estimate which borrowers are more likely to default on their loans.
-output: html_document 
 ---
 
 # Multi-Linear Logistic Regression
