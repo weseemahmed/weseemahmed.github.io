@@ -8,7 +8,6 @@ comments: true
 categories: rblogging
 tags: [shapefiles]
 excerpt: Learn how to extract data from shapefiles and combine it with other data!
-output: html_document 
 ---
 
 ## Familiarizing with shapefiles
