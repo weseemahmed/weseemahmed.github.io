@@ -1,12 +1,12 @@
 ---
-title: "The Canadian Cluster Handbook"
+title: "Paper Title Number 3"
 collection: publications
-permalink: /publication/WP_34_The_Canadian_Cluster_Handbook_Final
-excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
-date: 2010-04-01
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://weseemahmed.github.io/files/WP_34_The_Canadian_Cluster_Handbook_Final.pdf'
-citation: 'Ahmed et al. (2019). "The Canadian Cluster Handbook." <i>Ontario's Panel on Economic Growth and Prosperity</i>.'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 In Working Paper 34, The Canadian Cluster Handbook, the Institute returns to focusing on economic development through clusters. Since the release of Clusters in Ontario: Creating an ecosystem for prosperity in 2016, much has changed in Canadian cluster policy and the cluster landscape.
