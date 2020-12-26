@@ -2,7 +2,7 @@
 title: "The Canadian Cluster Handbook"
 collection: publications
 permalink: /publication/WP_34_The_Canadian_Cluster_Handbook_Final
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
