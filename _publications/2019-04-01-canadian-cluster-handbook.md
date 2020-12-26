@@ -26,3 +26,5 @@ Key takeaways:
         Federal government: Separate cluster policy from innovation policy
         Provincial government(s): Remove trade barriers and regulations
         Academia: Establish stronger ties with cluster organizations
+
+[Download paper here](http://weseemahmed.github.io/files/WP_34_The_Canadian_Cluster_Handbook_Final.pdf)
