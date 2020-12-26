@@ -1,7 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: <a href="https://www.competeprosper.ca/work/working-papers/the-canadian-cluster-handbook"> "The Canadian Cluster Handbook" </a> (2019)
+     <li>ISBN: 978-1-927065-33-4</li>
+excerpt: "A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
