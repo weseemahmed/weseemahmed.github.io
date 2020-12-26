@@ -1,15 +1,27 @@
 ---
-title: "Paper Title Number 1"
+title: "The Canadian Cluster Handbook"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://www.competeprosper.ca/uploads/WP_34_The_Canadian_Cluster_Handbook_Final.pdf
+excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
+date: 2019-04
+paperurl: 'https://www.competeprosper.ca/uploads/WP_34_The_Canadian_Cluster_Handbook_Final.pdf'
+ISBN: 978-1-927065-33-4
+citation: 'Ahmed et al. (2019). The Canadian Cluster Handbook. <i>The Institute for Competitiveness and Prosperity</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In Working Paper 34, The Canadian Cluster Handbook, the Institute returns to focusing on economic development through clusters. Since the release of Clusters in Ontario: Creating an ecosystem for prosperity in 2016, much has changed in Canadian cluster policy and the cluster landscape.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+The announcement of the Innovation Superclusters Initiative by the federal government in 2017 ignited interest from various cluster actors. In late 2018, the Institute hosted the 21st TCI Network Global Conference, which brought 340 leaders from business, government, and academia from 37 countries to Toronto to share key learnings on cluster development. The Institute finds that this Working Paper is therefore a timely interjection that proposes best practices for cluster initiatives in Canada.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Key takeaways:
+
+- Clusters are geographically proximate groups of firms, government, academic institutions, and venture capitalists, but ultimately are made up of individuals working together.
+- Clusters that take advantage of local specializations and factor conditions face less competition and can internationalize quicker.
+- Inclusivity is an excellent long-term strategy for attracting talent in a skill shortage labour force.
+- Clusters are hotbeds of innovation, building upon the interactions between members. In order to support clusters as they begin to grow, this Working Paper outlines the requirements needed to reinforce the cluster ecosystem.
+- Cluster mapping helps identify where regional specialities. Networking analyses, a form of mapping, can analyze the linkages formed between cluster actors.
+- The Working Paper also covers evaluation methods to determine if cluster organizations are achieving their goals.
+- For cluster policies to be successful, the Institute provides recommendations targeted at various cluster actors. Highlights include:
+        Firms: Take the lead on cluster initiatives.
+        Federal government: Separate cluster policy from innovation policy
+        Provincial government(s): Remove trade barriers and regulations
+        Academia: Establish stronger ties with cluster organizations
