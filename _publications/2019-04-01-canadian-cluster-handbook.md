@@ -29,4 +29,5 @@ Key takeaways:
         Academia: Establish stronger ties with cluster organizations
 
 [Download paper here](http://weseemahmed.github.io/files/WP_34_The_Canadian_Cluster_Handbook_Final.pdf)
+
 ISBN: 978-1-927-065-33-4
