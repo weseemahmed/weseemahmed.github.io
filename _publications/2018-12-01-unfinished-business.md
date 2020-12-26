@@ -1,8 +1,8 @@
 ---
 title: "Unfinished Business: Ontario since the Great Recession"
 collection: publications
-permalink: /publications/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018
-excerpt: 'A review of Ontario's economic and social performance over the past 17 years with emphasis on the effects of the Great Recession.'
+permalink: /publication/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018
+excerpt: "A review of Ontario's economic and social performance over the past 17 years with emphasis on the effects of the Great Recession."
 date: 2018-12-01
 venue: 'Institute for Competitiveness and Prosperity'
 paperurl: 'weseemahmed.github.io/files/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018.pdf'
