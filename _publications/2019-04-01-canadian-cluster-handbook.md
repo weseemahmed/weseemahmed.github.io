@@ -3,7 +3,7 @@ title: "The Canadian Cluster Handbook"
 collection: publications
 permalink: https://www.competeprosper.ca/uploads/WP_34_The_Canadian_Cluster_Handbook_Final.pdf
 excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
-date: 2019-04
+date: 2019-04-01
 paperurl: 'https://www.competeprosper.ca/uploads/WP_34_The_Canadian_Cluster_Handbook_Final.pdf'
 ISBN: 978-1-927065-33-4
 citation: 'Ahmed et al. (2019). The Canadian Cluster Handbook. <i>The Institute for Competitiveness and Prosperity</i>.'
