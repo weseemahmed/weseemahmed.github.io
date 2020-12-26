@@ -3,7 +3,7 @@ title: "The Canadian Cluster Handbook"
 collection: publications
 permalink: /publication/WP_34_The_Canadian_Cluster_Handbook_Final
 excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
-date: 2019-04-01
+date: 2010-04-01
 venue: 'Journal 1'
 paperurl: 'http://weseemahmed.github.io/files/WP_34_The_Canadian_Cluster_Handbook_Final.pdf'
 citation: 'Ahmed et al. (2019). "The Canadian Cluster Handbook." <i>Ontario's Panel on Economic Growth and Prosperity</i>.'
