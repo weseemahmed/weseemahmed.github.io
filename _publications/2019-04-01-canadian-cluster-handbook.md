@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Ahmed et al. (2019). "The Canadian Cluster Handbook." <i>Ontario's Panel on Economic Growth and Prosperity</i>.'
+citation: 'Your name here.'
 ---
 
 In Working Paper 34, The Canadian Cluster Handbook, the Institute returns to focusing on economic development through clusters. Since the release of Clusters in Ontario: Creating an ecosystem for prosperity in 2016, much has changed in Canadian cluster policy and the cluster landscape.
