@@ -7,10 +7,10 @@ date: 2018-12-01
 venue: 'Institute for Competitiveness and Prosperity'
 paperurl: 'weseemahmed.github.io/files/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018.pdf'
 ISBN: 978-1-927065-31-0
-citation: 'Ahmed, Weseem and Chris Mack (2018). Unfinished Business: Ontario since the Great Recession. <i>Institute for Competitiveness and Prosperity</i>.'
+citation: 'Ahmed, Weseem and Chris Mack (2018). "Unfinished Business: Ontario since the Great Recession." <i>Institute for Competitiveness and Prosperity</i>.'
 ---
 
-In its 17th Annual Report, Unfinished Business: Ontario since the Great Recession, the Institute for Competitiveness & Prosperity takes a retrospective look at how the province’s economy has fared since 2000, emphasizing the impact of the 2008-09 Great Recession on Ontario, and how the province has since recovered.
+In its 17th Annual Report, <i>Unfinished Business: Ontario since the Great Recession</i>, the Institute for Competitiveness & Prosperity takes a retrospective look at how the province’s economy has fared since 2000, emphasizing the impact of the 2008-09 Great Recession on Ontario, and how the province has since recovered.
 
 As in past Annual Reports, the Institute analyzes the Gross Domestic Product (GDP) per capita in Ontario compared to the median of its peers, known as the prosperity gap. Specifically, this Annual Report analyzes fluctuations in the prosperity gap as they relate to the impacts of the Great Recession. The primary driver of Ontario’s prosperity gap remains lagging productivity, which reduces prosperity by $7,000 per capita despite the province’s strong age profile, worker intensity, and high labour force utilization.
 
@@ -34,5 +34,4 @@ Focusing on housing and social mobility, the Institute makes several recommendat
 - Invest heavily in public transit.
 
 [Download paper here](https://www.competeprosper.ca/uploads/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018.pdf)
-
-Recommended citation: Ahmed Weseem and Chris Mack. (2018). "Unfinished Business: Ontario since the Great Recession." <i>The Institute for Competitiveness and Prosperity</i>.
+ISBN: 978-1-927065-31-0
