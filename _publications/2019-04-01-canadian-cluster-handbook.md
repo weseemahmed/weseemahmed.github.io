@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/WP_34_The_Canadian_Cluster_Handbook_Final
 excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
 date: 2019-04-01
-venue: 'Journal 1'
+venue: 'Ontario's Panel on Economic Growth and Prosperity'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
