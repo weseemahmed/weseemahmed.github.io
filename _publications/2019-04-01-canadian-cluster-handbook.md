@@ -1,7 +1,7 @@
 ---
 title: "The Canadian Cluster Handbook"
 collection: publications
-permalink: /files/WP_34_The_Canadian_Cluster_Handbook_Final
+permalink: /publications/WP_34_The_Canadian_Cluster_Handbook_Final
 excerpt: 'A comprehensive guide on developing and maintaining an economic cluster ecosystem in Canada.'
 date: 2019-04-01
 venue: 'The Institute for Competitiveness and Prosperity'
