@@ -9,7 +9,6 @@ paperurl: 'http://weseemahmed.github.io/files/WP_34_The_Canadian_Cluster_Handboo
 ISBN: 978-1-927065-33-4
 citation: 'Ahmed et al. (2019). "The Canadian Cluster Handbook." <i>Ontario's Panel on Economic Growth and Prosperity</i>.'
 ---
-
 In Working Paper 34, The Canadian Cluster Handbook, the Institute returns to focusing on economic development through clusters. Since the release of Clusters in Ontario: Creating an ecosystem for prosperity in 2016, much has changed in Canadian cluster policy and the cluster landscape.
 
 The announcement of the Innovation Superclusters Initiative by the federal government in 2017 ignited interest from various cluster actors. In late 2018, the Institute hosted the 21st TCI Network Global Conference, which brought 340 leaders from business, government, and academia from 37 countries to Toronto to share key learnings on cluster development. The Institute finds that this Working Paper is therefore a timely interjection that proposes best practices for cluster initiatives in Canada.
