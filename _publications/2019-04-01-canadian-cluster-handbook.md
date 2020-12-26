@@ -7,7 +7,7 @@ date: 2019-04-01
 venue: 'Institute for Competitiveness and Prosperity'
 paperurl: 'http://weseemahmed.github.io/files/WP_34_The_Canadian_Cluster_Handbook_Final.pdf'
 ISBN: 978-1-927-065-33-4
-citation: "Ahmed et al. (2019). "The Canadian Cluster Handbook." <i>Institute for Competitiveness and Prosperity</i>"
+citation: 'Ahmed et al. (2019). "The Canadian Cluster Handbook." <i>Institute for Competitiveness and Prosperity</i>'
 ---
 
 In Working Paper 34, The Canadian Cluster Handbook, the Institute returns to focusing on economic development through clusters. Since the release of Clusters in Ontario: Creating an ecosystem for prosperity in 2016, much has changed in Canadian cluster policy and the cluster landscape.
