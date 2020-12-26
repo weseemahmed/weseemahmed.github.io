@@ -4,10 +4,10 @@ collection: publications
 permalink: /publications/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018
 excerpt: 'A review of Ontario's economic and social performance over the past 17 years with emphasis on the effects of the Great Recession.'
 date: 2018-12-01
-venue: 'Ontario's Panel on Economic Growth and Prosperity'
+venue: 'Institute for Competitiveness and Prosperity'
 paperurl: 'weseemahmed.github.io/files/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018.pdf'
 ISBN: 978-1-927065-31-0
-citation: 'Ahmed, Weseem and Chris Mack (2018). Unfinished Business: Ontario since the Great Recession. <i>Ontario's Panel on Economic Growth and Prosperity</i>.'
+citation: 'Ahmed, Weseem and Chris Mack (2018). Unfinished Business: Ontario since the Great Recession. <i>Institute for Competitiveness and Prosperity</i>.'
 ---
 
 In its 17th Annual Report, Unfinished Business: Ontario since the Great Recession, the Institute for Competitiveness & Prosperity takes a retrospective look at how the province’s economy has fared since 2000, emphasizing the impact of the 2008-09 Great Recession on Ontario, and how the province has since recovered.
