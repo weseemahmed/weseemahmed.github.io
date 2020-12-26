@@ -34,4 +34,5 @@ Focusing on housing and social mobility, the Institute makes several recommendat
 - Invest heavily in public transit.
 
 [Download paper here](https://www.competeprosper.ca/uploads/Annual_Report_17_Unfinished_Business_Ontario_since_the_Great_Recession_Dec_2018.pdf)
+
 ISBN: 978-1-927065-31-0
