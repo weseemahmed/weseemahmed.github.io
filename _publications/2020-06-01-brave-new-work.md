@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/PlaceBasedLensToTheFutureOfWork-PPF-June2020-EN
 excerpt: 'This paper examines the future of work in Canada in light of changing demographic and technological trends.'
 date: 2020-06-01
-venue: 'Brave New Work Key Issues'
+venue: 'Brave New Work'
 paperurl: 'http://weseemahmed.github.io/files/PlaceBasedLensToTheFutureOfWork-PPF-June2020-EN.pdf'
-citation: 'Ahmed, Weseem and Sean Speer. (2020). &quot;A Place-Based Lens to the Future Of Work in Canada.&quot; <i>Brave New Work Key Issues</i>.'
+citation: 'Ahmed, Weseem and Sean Speer. (2020). &quot;A Place-Based Lens to the Future Of Work in Canada.&quot; <i>Public Policy Forum</i>.'
 ---
 An urban-rural scan of potential long-term effects of the future of work shows the negative effects of a displaced workforce will be felt disproportionately among rural residents, who make up the majority of high-risk employment sectors that will succumb to technology-induced disruption. Understanding how these changes could affect urban centres vs. rural areas is a crucial ingredient to long-term policymaking and key to creating an effective place-based policy agenda for Canada to manage those disruptions and keep an urban-rural economic divide that already exists from growing.
 
