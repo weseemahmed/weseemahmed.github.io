@@ -24,17 +24,20 @@ redirect_from:
 
 <h2>Education:</h2>
 <ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>M.A., </b></span><span><b>Economics</b></span><span><b>, Toulouse School of Economics</b></span>
+ 	<li><span><b>Ph.D., </b></span><span><b>Information Management & Systems with a designated emphasis in New Media</b></span><span><b>, University of California at Berkeley</b></span>
 <ul>
- 	<li><strong><span><b>Date:</b></span></strong><span> 2014-2016</span></li>
-  <li><b><span>Master's Thesis:</b></span> Estimating Effects of Democratic Institutions on Climate Change with with Machine Learning</li>
+ 	<li><strong><span><b>Date:</b></span></strong><span> December 2015</span></li>
+  <li><b><span>Doctoral Thesis:</b></span><span> robots.txt: An Ethnographic Investigation of Automated Software Agents in User-Generated Content Platforms</span></li>
+ 	<li><span><b>Advisor:</b></span><span> Prof. Jenna Burrell</span></li>
 </ul>
 </li>
 </ul>
 <ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>B.A., </b></span><span><b>Economics</b></span><span><b>, Western University</b></span>
+ 	<li><span><b>M.A., Communication, Culture, and Technology</b>, <b>Georgetown University</b></span>
 <ul>
- 	<li><strong><span><b>Date:</b></span></strong><span> 2010-2014</span></li>
+ 	<li><strong><span><b>Date:</b></span></strong><span> May 2009</span></li>
+ 	<li><span><b>Master’s Thesis</b>: Working within Wikipedia: Infrastructures of Knowing and Knowledge Production</li</span>
+ 	<li><span><b>Advisor: </b>Prof.</span><span> David Ribes</span></li>
 </ul>
 </li>
 </ul>
