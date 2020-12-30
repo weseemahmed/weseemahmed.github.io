@@ -23,6 +23,7 @@ redirect_from:
 </ul>
 
 <h2>Education:</h2>
+<a name="education"><h2 class="western">Education:</h2></a>
 <ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span><b>Ph.D., </b></span><span><b>Information Management & Systems with a designated emphasis in New Media</b></span><span><b>, University of California at Berkeley</b></span>
 <ul>
@@ -38,6 +39,15 @@ redirect_from:
  	<li><strong><span><b>Date:</b></span></strong><span> May 2009</span></li>
  	<li><span><b>Master’s Thesis</b>: Working within Wikipedia: Infrastructures of Knowing and Knowledge Production</li</span>
  	<li><span><b>Advisor: </b>Prof.</span><span> David Ribes</span></li>
+</ul>
+</li>
+</ul>
+<ul style="line-height: 1.5; margin: 10px 0;">
+ 	<li><span><b>B.A., Humanities Honors,</b> <b>University of Texas at Austin</b></span>
+<ul>
+ 	<li><strong><span><b>Date: </b></span></strong><span>May 2007</span></li>
+  <li><span><b>Senior Thesis</b>: Democracy in Wikipedia</li></span>
+ 	<li><span><b>Advisor:</b></span><span> Prof. Elizabeth Keating</span></li>
 </ul>
 </li>
 </ul>
