@@ -28,7 +28,10 @@ redirect_from:
 <ul>
  	<li><strong><span><b>Date:</b></span></strong><span> 2014-2016</span></li>
   <li><b><span>Master's Thesis:</b></span><span> Estimating Effects of Democratic Institutions on Climate Change with with Machine Learning
-</span>
+    </span></li>
+</ul>
+</li>
+</ul>
     
 <ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
@@ -38,8 +41,7 @@ redirect_from:
 </li>
 </ul>
   
-Skills
-======
+<a name="projects"><h2 id="projects-">Personal Projects:</h2></a>
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -47,24 +49,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+<a name="publications"><h2 id="publications-">Publications:</h2></a>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+<a name="talks"><h2 id="talks-">Talks:</h2></a>
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
