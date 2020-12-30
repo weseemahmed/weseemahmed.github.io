@@ -18,40 +18,16 @@ redirect_from:
 <h2>Employment</h2>
 <ul style="line-height: 1.5; margin: 10px 0;">
   <li><span><b>Research Associate</b>, Canadian Institute for Climate Choices (Sept 2019 to present)</span></li>
-    <li><span><b>Ad-hoc Consultant</b> (May 2019 to June 2020)</span></li>
-    <li><span><b>Policy Analyst and Clusters Specialist</b>, Institute for Competitiveness and Prosperity (Mar 2018 to May 2019)</span></li>
+  <li><span><b>Ad-hoc Consultant</b> (May 2019 to June 2020)</span></li>
+  <li><span><b>Policy Analyst and Clusters Specialist</b>, Institute for Competitiveness and Prosperity (Mar 2018 to May 2019)</span></li>
 </ul>
 
 <h2>Education:</h2>
-<a name="education"><h2 class="western">Education:</h2></a>
-<ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>Ph.D., </b></span><span><b>Information Management & Systems with a designated emphasis in New Media</b></span><span><b>, University of California at Berkeley</b></span>
-<ul>
- 	<li><strong><span><b>Date:</b></span></strong><span> December 2015</span></li>
-  <li><b><span>Doctoral Thesis:</b></span><span> robots.txt: An Ethnographic Investigation of Automated Software Agents in User-Generated Content Platforms</span></li>
- 	<li><span><b>Advisor:</b></span><span> Prof. Jenna Burrell</span></li>
-</ul>
-</li>
-</ul>
-<ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>M.A., Communication, Culture, and Technology</b>, <b>Georgetown University</b></span>
-<ul>
- 	<li><strong><span><b>Date:</b></span></strong><span> May 2009</span></li>
- 	<li><span><b>Master’s Thesis</b>: Working within Wikipedia: Infrastructures of Knowing and Knowledge Production</li</span>
- 	<li><span><b>Advisor: </b>Prof.</span><span> David Ribes</span></li>
-</ul>
-</li>
-</ul>
-<ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>B.A., Humanities Honors,</b> <b>University of Texas at Austin</b></span>
-<ul>
- 	<li><strong><span><b>Date: </b></span></strong><span>May 2007</span></li>
-  <li><span><b>Senior Thesis</b>: Democracy in Wikipedia</li></span>
- 	<li><span><b>Advisor:</b></span><span> Prof. Elizabeth Keating</span></li>
-</ul>
-</li>
-</ul>
-  
+* <b>M.A. Economics</b>, Toulouse School of Economics (2014-2016)
+  * Masters Thesis: <i>Estimating Effects of Democratic Institutions on Climate Change with a Logistic Regression</i>
+ 
+* <b>B.A. Economics</b>, Western University (2010-2014)
+
 <a name="projects"><h2 id="projects-">Personal Projects:</h2></a>
 * Skill 1
 * Skill 2
