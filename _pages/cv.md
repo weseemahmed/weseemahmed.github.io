@@ -10,16 +10,15 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-<u><a style="line-height: 1.5;" href="http://www.weseemahmed.github.io/files/
-Weseem Ahmed Resume.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
+<u><a style="line-height: 1.5;" href="http://www.weseemahmed.github.io/files/Weseem Ahmed Resume.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 
-<h1 class="western" align="center"><b>R. Weseem H. Ahmed</b></h1>
+<h1 class="western" align="center"><b>Weseem H. Ahmed</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
 
-<a name="employment"><h2>Employment</h2></a>
+<h2>Employment</h2></a>
 <ul style="line-height: 1.5; margin: 10px 0;">
   <li><span><b>Research Associate</b>, Canadian Institute for Climate Choices (Sept 2019 to present)</span></li>
-    <li><span><b>Ad-hoc Consultant</b>, (May 2019 to June 2020)</span></li>
+    <li><span><b>Ad-hoc Consultant</b> (May 2019 to June 2020)</span></li>
     <li><span><b>Policy Analyst and Clusters Specialist</b>, Institute for Competitiveness and Prosperity (Mar 2018 to May 2019)</span></li>
 </ul>
 
@@ -28,11 +27,10 @@ Weseem Ahmed Resume.pdf"><span style="color: #333333;"><span>Also available in P
  	<li><span><b>M.A., </b></span><span><b>Economics</b></span><span><b>, Toulouse School of Economics</b></span>
 <ul>
  	<li><strong><span><b>Date:</b></span></strong><span> 2014-2016</span></li>
-  <li><b><span>Master's Thesis:</b></span><span> Estimating Effects of Democratic Institutions on Climate Change with with machine learning
-</span></li>
-</ul>
-</li>
-</ul>
+  <li><b><span>Master's Thesis:</b></span><span> Estimating Effects of Democratic Institutions on Climate Change with with Machine Learning
+</span>
+    
+<ul style="line-height: 1.5; margin: 10px 0;">
  	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
 <ul>
  	<li><strong><span><b>Date: </b></span></strong><span>2010-2014</span></li>
