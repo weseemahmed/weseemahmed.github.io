@@ -22,26 +22,24 @@ redirect_from:
   <li><span><b>Policy Analyst and Clusters Specialist</b>, Institute for Competitiveness and Prosperity (Mar 2018 to May 2019)</span></li>
 </ul>
 
-<h2>Education:</h2>
+<h2>Education</h2>
 * <b>M.A. Economics</b>, Toulouse School of Economics (2014-2016)
-  * Masters Thesis: <i>Estimating Effects of Democratic Institutions on Climate Change with a Logistic Regression</i>
+  Masters Thesis: <i>Estimating Effects of Democratic Institutions on Climate Change with a Logistic Regression</i>
  
 * <b>B.A. Economics</b>, Western University (2010-2014)
 
-<a name="projects"><h2 id="projects-">Personal Projects:</h2></a>
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<h2>Skills:</h2>
+* Graduate-level statistics
+* Machine Learning
+* Python
+* R programming
 
 <a name="publications"><h2 id="publications-">Publications:</h2></a>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<a name="talks"><h2 id="talks-">Talks:</h2></a>
+<h2>Talks and Presentations</h2>
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
