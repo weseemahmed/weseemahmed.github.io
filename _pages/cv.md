@@ -8,24 +8,37 @@ redirect_from:
 ---
 
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<u><a style="line-height: 1.5;" href="http://www.weseemahmed.github.io/files/
+Weseem Ahmed Resume.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<h1 class="western" align="center"><b>R. Weseem H. Ahmed</b></h1>
+<p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<a name="employment"><h2>Employment</h2></a>
+<ul style="line-height: 1.5; margin: 10px 0;">
+  <li><span><b>Research Associate</b>, Canadian Institute for Climate Choices (Sept 2019 to present)</span></li>
+    <li><span><b>Ad-hoc Consultant</b>, (May 2019 to June 2020)</span></li>
+    <li><span><b>Policy Analyst and Clusters Specialist</b>, Institute for Competitiveness and Prosperity (Mar 2018 to May 2019)</span></li>
+</ul>
+
+<a name="education"><h2 class="western">Education:</h2></a>
+<ul style="line-height: 1.5; margin: 10px 0;">
+ 	<li><span><b>M.A., </b></span><span><b>Economics</b></span><span><b>, Toulouse School of Economics</b></span>
+<ul>
+ 	<li><strong><span><b>Date:</b></span></strong><span> 2014-2016</span></li>
+  <li><b><span>Master's Thesis:</b></span><span> Estimating Effects of Democratic Institutions on Climate Change with with machine learning
+</span></li>
+</ul>
+</li>
+</ul>
+ 	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
+<ul>
+ 	<li><strong><span><b>Date: </b></span></strong><span>2010-2014</span></li>
+</ul>
+</li>
+</ul>
   
 Skills
 ======
