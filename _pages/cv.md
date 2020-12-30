@@ -36,6 +36,8 @@ redirect_from:
  	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
 <ul>
  	<li><strong><span><b>Date: </b></span></strong><span>2010-2014</span></li>
+ <li><span><b>Senior Thesis</b>: Democracy in Wikipedia</li></span>
+ 	<li><span><b>Advisor:</b></span><span> Prof. Elizabeth Keating</span></li>
 </ul>
 </li>
 </ul>
