@@ -27,17 +27,14 @@ redirect_from:
  	<li><span><b>M.A., </b></span><span><b>Economics</b></span><span><b>, Toulouse School of Economics</b></span>
 <ul>
  	<li><strong><span><b>Date:</b></span></strong><span> 2014-2016</span></li>
-  <li><b><span>Master's Thesis:</b> </span><span> Estimating Effects of Democratic Institutions on Climate Change with with Machine Learning
-    </span></li>
+  <li><b><span>Master's Thesis:</b></span> Estimating Effects of Democratic Institutions on Climate Change with with Machine Learning</li>
 </ul>
 </li>
 </ul>
 <ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
+ 	<li><span><b>B.A., </b></span><span><b>Economics</b></span><span><b>, Western University</b></span>
 <ul>
- 	<li><strong><span><b>Date: </b></span></strong><span>2010-2014</span></li>
- <li><span><b>Senior Thesis</b>: Democracy in Wikipedia</li></span>
- 	<li><span><b>Advisor:</b></span><span> Prof. Elizabeth Keating</span></li>
+ 	<li><strong><span><b>Date:</b></span></strong><span> 2010-2014</span></li>
 </ul>
 </li>
 </ul>
