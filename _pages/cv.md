@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-<u><a style="line-height: 1.5;" href="http://www.weseemahmed.github.io/files/Weseem Ahmed Resume.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
+<u><a style="line-height: 1.5;" href="http://weseemahmed.github.io/files/Weseem-Ahmed-Resume.pdf"><span style="color: #333333;"><span>Also available in PDF format.</span></span></a></u>
 
 <h1 class="western" align="center"><b>Weseem H. Ahmed</b></h1>
 <p style="line-height: 1.5;" align="center"><span><b>Curriculum Vitae</b> </span></p>
@@ -32,11 +32,10 @@ redirect_from:
 </ul>
 </li>
 </ul>
-    
 <ul style="line-height: 1.5; margin: 10px 0;">
- 	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
+ 	<li><span><b>B.A., Economics,</b> <b>Western University</b></span>
 <ul>
- 	<li><strong><span><b>Date: </b></span></strong><span>2010-2014</span></li>
+ 	<li><strong><span><b>Date: </b></span></strong><span>2010-2014</span></li>
 </ul>
 </li>
 </ul>
