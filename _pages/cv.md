@@ -28,13 +28,13 @@ redirect_from:
  
 * <b>B.A. Economics</b>, Western University (2010-2014)
 
-<h2>Skills:</h2>
+<h2>Skills</h2>
 * Graduate-level statistics
 * Machine Learning
 * Python
 * R programming
 
-<h2>Publications:</h2>
+<h2>Publications</h2>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
