@@ -2,7 +2,7 @@
 title: "Bridging Ontario's Rural-Urban Divide"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-11-27-talk-2
+permalink: /talks/2019-11-27-the-agenda
 venue: "The Agenda"
 date: 2019-11-27
 location: "Toronto, Ontario"
