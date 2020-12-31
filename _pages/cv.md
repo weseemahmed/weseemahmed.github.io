@@ -34,7 +34,7 @@ redirect_from:
 * Python
 * R programming
 
-<a name="publications"><h2 id="publications-">Publications:</h2></a>
+<h2>Publications:</h2>
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
