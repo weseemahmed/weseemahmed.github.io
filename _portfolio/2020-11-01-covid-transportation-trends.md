@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Chord diagram"
+title: "COVID-19 Transportation Trends"
 subtitle: "Visualizing intra-Ontario migration"
 author: "Weseem Ahmed "
-date: "January 17, 2019"
+date: "November 1, 2020"
 comments: true
 categories: rblogging
 tags: [chordDiagram]
-img_url: /includes/20190117-chord-diagram.png
-excerpt: This blog goes through the basic steps to create a chord diagram which is a fantastic data visualization tool for showing the magnitudes of different groups' interactions.
+img_url: /includes/20201101-chord-diagram.png
+excerpt: How has COVID-19 impacted how Canadians move around? In this blog I look at different major cities and modes of transportation across Canada.
 ---
 
 {
