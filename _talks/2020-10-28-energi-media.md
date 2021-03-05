@@ -3,7 +3,7 @@ title: "How ready is YOUR province for a low-carbon future?"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-10-28-energi-media
-venue: "Virtual Talk"
+venue: "Energi Media"
 date: 2020-10-28
 location: "Toronto, Ontario"
 ---
